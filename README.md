@@ -32,3 +32,19 @@
 
 <img width="338" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٥ ٠١ ٢١ ص" src="https://user-images.githubusercontent.com/56774274/149028322-fe18b851-8a7d-4c81-b1e1-1e2da1600300.png">              <img width="325" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٥ ٠٢ ٢٦ ص" src="https://user-images.githubusercontent.com/56774274/149028346-8685a0e7-c668-4f9c-a7d1-e9b60419f8d9.png">
 
+
+
+## Add post screen
+Add text to the post
+Add a picture to the post
+Add tags to the post
+
+## Post details screen
+View post details
+button to edit the post
+Comments button
+
+## Comments screen
+View comments for a post
+Add a comment to the post
+
