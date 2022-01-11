@@ -21,3 +21,9 @@
 
 <img width="330" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٤ ٥٤ ٠٤ ص" src="https://user-images.githubusercontent.com/56774274/149012702-51d4eac6-a397-4497-9496-629bcec6f4f2.png">                                          <img width="347" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٤ ٥٤ ٤٩ ص" src="https://user-images.githubusercontent.com/56774274/149012751-da4c0957-12d4-42bf-9a32-19ee2baaec9e.png">
 
+
+
+## Profile screen
+- Display the name and photo of the user
+- Button to edit profile
+- View all user posts
