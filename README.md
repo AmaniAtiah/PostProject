@@ -39,6 +39,10 @@
 - Add a picture to the post
 - Add tags to the post
 
+
+<img width="347" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٤ ٥٥ ٥٧ ص" src="https://user-images.githubusercontent.com/56774274/149031645-d2ca8a58-cdd0-460b-bafd-e3c4b39b09fa.png">
+
+
 ## Post details screen
 - View post details
 - button to edit the post: When you click on the edit button, the user can edit his own post
