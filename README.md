@@ -41,7 +41,7 @@
 
 ## Post details screen
 - View post details
-- button to edit the post
+- button to edit the post: When you click on the edit button, the user can edit his own post
 - Comments button
 
 ## Comments screen
