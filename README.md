@@ -48,6 +48,11 @@
 - button to edit the post: When you click on the edit button, the user can edit his own post
 - Comments button
 
+
+
+<img width="344" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٩ في ١ ٣٣ ٤٦ ص" src="https://user-images.githubusercontent.com/56774274/149032185-2d40b996-111c-4b3f-84b8-2d32a1639577.png">             <img width="334" alt="‏لقطة الشاشة ١٤٤٣-٠٦-٠٨ في ٤ ٥٩ ٢٣ ص" src="https://user-images.githubusercontent.com/56774274/149032210-d3bc38df-c620-4d7c-a314-b70d8ab444ba.png">
+
+
 ## Comments screen
 - View comments for a post
 - Add a comment to the post
