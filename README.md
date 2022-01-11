@@ -15,3 +15,6 @@
 
 
 ## Tags screen
+- View all tags
+- When you click on a specific tag, it displays all the posts of the tag
+
