@@ -26,6 +26,7 @@
 ## Profile screen
 - Display the name and photo of the user
 - Button to edit profile
+- When clicking on the Edit Profile button, the user can modify his personal data
 - View all user posts
 
 
