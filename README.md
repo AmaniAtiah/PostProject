@@ -35,16 +35,16 @@
 
 
 ## Add post screen
-Add text to the post
-Add a picture to the post
-Add tags to the post
+- Add text to the post
+- Add a picture to the post
+- Add tags to the post
 
 ## Post details screen
-View post details
-button to edit the post
-Comments button
+- View post details
+- button to edit the post
+- Comments button
 
 ## Comments screen
-View comments for a post
-Add a comment to the post
+- View comments for a post
+- Add a comment to the post
 
